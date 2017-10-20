@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 20th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Rodberg
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project is a tax calculator.
+The user inputs their filing status and number.
+The program returns the ammount of tax and the tax bracket.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jrr15f.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. Conditional statements were used to determine tax brackets.
+2. Functions were used in determining the ammount of tax needed to be paid.
+3. An array was used in determining the different tax filing statuses.
